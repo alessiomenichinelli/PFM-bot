@@ -1,2 +1,1 @@
-# PFM-bot
-Personal Finance Manager bot
+# Personal Finance Manager bot
